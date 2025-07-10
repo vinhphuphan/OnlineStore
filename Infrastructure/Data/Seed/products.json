@@ -1,0 +1,110 @@
+[
+  {
+    "Name": "iPhone 15 Pro Max 256GB",
+    "Description": "Apple's most advanced iPhone with a powerful A17 Pro chip, titanium design, and ProMotion display.",
+    "Price": 1399,
+    "PictureUrl": "/images/products/iphone15promax.jpg",
+    "Type": "Phones",
+    "Brand": "Apple",
+    "QuantityInStock": 120
+  },
+  {
+    "Name": "Samsung Galaxy S24 Ultra 512GB",
+    "Description": "Top-tier Android phone with Snapdragon 8 Gen 3, 200MP camera, and S Pen integration.",
+    "Price": 1299,
+    "PictureUrl": "/images/products/galaxys24ultra.jpg",
+    "Type": "Phones",
+    "Brand": "Samsung",
+    "QuantityInStock": 85
+  },
+  {
+    "Name": "OPPO Reno11 5G 256GB",
+    "Description": "Stylish smartphone with AMOLED display, excellent camera features, and fast charging.",
+    "Price": 499,
+    "PictureUrl": "/images/products/opporeno11.jpg",
+    "Type": "Phones",
+    "Brand": "OPPO",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Xiaomi Redmi Note 13 Pro+ 5G 256GB",
+    "Description": "Value-for-money phone with strong performance, great battery life, and 120Hz display.",
+    "Price": 399,
+    "PictureUrl": "/images/products/redminote13pro.jpg",
+    "Type": "Phones",
+    "Brand": "Xiaomi",
+    "QuantityInStock": 75
+  },
+  {
+    "Name": "MacBook Air M2 13-inch 2023",
+    "Description": "Ultra-thin, powerful laptop with Apple's M2 chip, long battery life, and stunning Retina display.",
+    "Price": 1099,
+    "PictureUrl": "/images/products/macbookairm2.jpg",
+    "Type": "Laptops",
+    "Brand": "Apple",
+    "QuantityInStock": 40
+  },
+  {
+    "Name": "ASUS TUF Gaming F15 i7 16GB 512GB RTX 4060",
+    "Description": "High-performance gaming laptop with Intel i7, RTX 4060 GPU, and military-grade durability.",
+    "Price": 1299,
+    "PictureUrl": "/images/products/asustufgaming.jpg",
+    "Type": "Laptops",
+    "Brand": "ASUS",
+    "QuantityInStock": 35
+  },
+  {
+    "Name": "Samsung Galaxy Watch6 44mm",
+    "Description": "Smartwatch with health tracking, AMOLED display, and seamless integration with Galaxy devices.",
+    "Price": 319,
+    "PictureUrl": "/images/products/galaxywatch6.jpg",
+    "Type": "Smartwatches",
+    "Brand": "Samsung",
+    "QuantityInStock": 58
+  },
+  {
+    "Name": "Apple Watch Series 9 GPS 45mm",
+    "Description": "Advanced smartwatch with S9 chip, enhanced health features, and new double-tap gesture.",
+    "Price": 429,
+    "PictureUrl": "/images/products/applewatchseries9.jpg",
+    "Type": "Smartwatches",
+    "Brand": "Apple",
+    "QuantityInStock": 42
+  },
+  {
+    "Name": "Sony WH-1000XM5 Wireless Headphones",
+    "Description": "Industry-leading noise cancelling, long battery life, and excellent audio quality.",
+    "Price": 399,
+    "PictureUrl": "/images/products/sonywh1000xm5.jpg",
+    "Type": "Headphones",
+    "Brand": "Sony",
+    "QuantityInStock": 27
+  },
+  {
+    "Name": "AirPods Pro 2nd Gen with MagSafe Case",
+    "Description": "Apple’s premium earbuds with active noise cancellation, spatial audio, and improved battery life.",
+    "Price": 249,
+    "PictureUrl": "/images/products/airpodspro2.png",
+    "Type": "Headphones",
+    "Brand": "Apple",
+    "QuantityInStock": 64
+  },
+  {
+    "Name": "Anker PowerCore 20000mAh Power Bank",
+    "Description": "High-capacity portable charger with fast charging and multiple USB ports.",
+    "Price": 69,
+    "PictureUrl": "/images/products/ankerpowerbank.png",
+    "Type": "Accessories",
+    "Brand": "Anker",
+    "QuantityInStock": 100
+  },
+  {
+    "Name": "Baseus GaN 65W Fast Charger",
+    "Description": "Compact and powerful charger for phones, tablets, and laptops with USB-C fast charging support.",
+    "Price": 45,
+    "PictureUrl": "/images/products/baseusgan65w.jpg",
+    "Type": "Accessories",
+    "Brand": "Baseus",
+    "QuantityInStock": 80
+  }
+]
