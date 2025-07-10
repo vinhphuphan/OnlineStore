@@ -1,3 +1,6 @@
+// This class seeds initial product data into the database if it's empty.
+// It reads from ../Infrastructure/Data/Seed/products.json and adds to the Products table.
+
 using System.Text.Json;
 using Core.Entities;
 

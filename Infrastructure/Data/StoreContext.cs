@@ -1,3 +1,6 @@
+// Defines the Entity Framework Core DbContext for the application.
+// Registers DbSet<Product> and applies entity configurations from the assembly.
+
 using Core.Entities;
 using Infrastructure.Config;
 using Microsoft.EntityFrameworkCore;
