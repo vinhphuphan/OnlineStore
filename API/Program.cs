@@ -15,7 +15,7 @@ builder.Services.AddDbContext<StoreContext>(options
 
 builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
 var app = builder.Build();
 

@@ -2,7 +2,6 @@
 // Registers DbSet<Product> and applies entity configurations from the assembly.
 
 using Core.Entities;
-using Infrastructure.Config;
 using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data;
@@ -14,6 +13,10 @@ public class StoreContext(DbContextOptions options) : DbContext(options)
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
-        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ProductConfiguration).Assembly);
+
+        // 👇 Configure for Price of Product
+        modelBuilder.Entity<Product>()
+            .Property(p => p.Price)
+            .HasColumnType("decimal(18,2)");
     }
 }
