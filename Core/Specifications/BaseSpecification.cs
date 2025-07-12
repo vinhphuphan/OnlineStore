@@ -1,4 +1,6 @@
-using System;
+// BaseSpecification<T> implements the core logic for filtering, sorting, and pagination in queries.
+// BaseSpecification<T, TResult> extends it with projection support using a Select expression.
+
 using System.Linq.Expressions;
 using Core.Interfaces;
 

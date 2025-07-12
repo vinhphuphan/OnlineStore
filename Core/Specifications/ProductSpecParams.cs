@@ -1,3 +1,6 @@
+// ProductSpecParams holds query parameters for filtering, sorting, and paginating products.
+// Supports brand/type filtering, keyword search, and page size constraints.
+
 namespace Core.Specifications;
 
 public class ProductSpecParams

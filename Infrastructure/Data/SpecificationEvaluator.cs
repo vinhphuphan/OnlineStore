@@ -1,3 +1,6 @@
+// SpecificationEvaluator<T> applies specification rules to an IQueryable query.
+// Handles filtering, sorting, projection, distinct, and pagination based on the given specification.
+
 using Core.Entities;
 using Core.Interfaces;
 

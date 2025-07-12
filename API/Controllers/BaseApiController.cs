@@ -1,7 +1,9 @@
+// BaseApiController provides shared functionalities for other API controllers.
+// Currently includes a helper method to create paginated results using repository and specification pattern.
+
 using API.RequestHelpers;
 using Core.Entities;
 using Core.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers

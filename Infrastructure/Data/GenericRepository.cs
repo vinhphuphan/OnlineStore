@@ -1,3 +1,6 @@
+// GenericRepository<T> provides a reusable implementation of IGenericRepository for basic data operations.
+// Supports CRUD, filtering, sorting, and projecting data using the Specification Pattern.
+
 using Core.Entities;
 using Core.Interfaces;
 using Microsoft.EntityFrameworkCore;

@@ -1,3 +1,7 @@
+// ISpecification<T> defines filtering, sorting, and pagination logic for queries.
+// ISpecification<T, TResult> extends it to support projection (selecting specific fields).
+
+
 using System.Linq.Expressions;
 
 namespace Core.Interfaces;

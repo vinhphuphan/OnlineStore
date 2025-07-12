@@ -1,4 +1,5 @@
-// ProductSpecifications.cs
+// ProductSpecifications defines filtering, sorting, and pagination rules for querying products.
+// Also includes specifications for retrieving distinct brand and type lists using projection.
 
 using Core.Entities;
 

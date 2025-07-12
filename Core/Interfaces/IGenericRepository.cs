@@ -1,4 +1,6 @@
-using System;
+// IGenericRepository<T> defines a generic contract for data access operations on entities.
+// Supports CRUD, querying with specifications, and working with projection types.
+
 using Core.Entities;
 
 namespace Core.Interfaces;
